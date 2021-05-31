@@ -11,6 +11,6 @@ This work is developed and published openly under a CC-BY 4.0 license.
 
 Anyone interested in applying to the [SSI Fellowship programme](https://software.ac.uk/programmes-and-events/fellowship-programme) should feel free to take inspiration from these materials, with appropriate attribution.
 
-
+* You can find out about the work that I do by visiting my [SSI profile page](https://www.software.ac.uk/about/fellows/emma-karoune).
 
 **Disclaimer:** Modelling your application after the contents of this repository does not guarantee you a Fellowship :wink:
