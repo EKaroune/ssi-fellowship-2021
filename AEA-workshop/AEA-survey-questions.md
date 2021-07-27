@@ -32,9 +32,10 @@ A google form was set up for the AEA membership survey.
 
 ## Survey questions
 1. Would you be interested in attending an Open Science Skills workshop?
-Yes
-No
-Maybe
+
+* Yes
+* No
+* Maybe
 
 2. What aspects of Open Science do you want to learn about? (tick all that apply)
 
@@ -54,17 +55,20 @@ Maybe
 * An introduction to all of the above
 
 3. What type of training would you prefer?
+
 * Only lectures
 * Only practical task based learning
 * A mix of lectures and practical tasks
 
 4. How long would you want the workshop to be?
+
 * Half day (2-3 hours)
 * 1 day
 * 3 days
 * 5 days
 
 5. Would you want the workshop spread over?
+
 * One week
 * Several weeks with 1 session per week
 
