@@ -4,6 +4,7 @@ This repository is to track the management and impact of Emma's 2021 SSI Fellows
 
 * `/application` contains the resources that from my application including slides and video.
 * `/talks` contains resources relating to conferences or events that I have applied to and/or presented at during my Fellowship.
+* `/AEA-workshop` contains planning documents and resources for the open science skills workshop taking place in November 2021.
 
 ---
 
